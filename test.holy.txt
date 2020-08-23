@@ -1,0 +1,39 @@
+# comment
+# assignment
+let a be 3
+
+# imports ?
+let there be [light]
+let there/this be (a, articles) [light] of [my, articles] [pire]
+
+# instantiate class ?
+let us make [x] after [y]
+
+# print ?
+Behold, [my stuff]
+say His name
+
+
+# loops
+# conditions
+# arithmetic
+# 
+
+# difference between passive voice and citation ?
+The lord said "Do not do unto others
+
+
+# use 'His' to refer to self/this when in object
+# or just refer to a variable
+Behold His 
+
+# or declare structures as subjects
+He/The Lord made/formed (the) [man].
+(The) man had  # is now a structure.
+
+---
+
+
+fun takes (a, b) and does {
+
+}

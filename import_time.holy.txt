@@ -1,0 +1,15 @@
+
+
+# or let God be the program itself.
+# so if we want the program to wait:
+# And so of 'time' He waited.
+# this is a basic function call.
+
+Let there be Time  # import 'time' struct. Case insensitive
+# or 
+Then/Now there was a man.  # create 'man' variable
+And God said "Let us make mankind." and it was so.
+Then God made mankind 
+                      in the image of [].
+                      in (his) image  # empty struct.
+Then mankind waited 5 days.

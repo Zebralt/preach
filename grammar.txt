@@ -1,0 +1,37 @@
+
+# print
+Behold, IDENT|LITERAL
+
+# Create a struct / assignment
+Now IDENT was 
+
+# import other structs from other files
+Let there be IDENT
+# eg: Let there be 'light'
+
+# Get attribute from struct
+ARTICLE? IDENT of ARTICLE? IDENT
+# eg: The (color) of the (light)
+
+# assignment
+
+
+# cond
+[IDENT] shall (not)? OPERATOR [IDENT]
+# elif
+
+# else 
+lest
+
+# loop
+
+# function
+[The Lord/ He] commanded [args], saying, "
+[The Lord/ He] said/commanded "
+[function name] you shall,
+    > instr
+# args
+# return instr
+
+
+# arithmetic

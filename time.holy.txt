@@ -1,0 +1,7 @@
+
+
+The Lord commanded "
+Thou shalt wait unto the day,
+using {{ time.sleep (day) {} }}
+for None is dakrk
+"

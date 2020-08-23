@@ -1,0 +1,12 @@
+[prefix]
+Then
+Now
+And
+In the beginning,
+But
+Thus
+So
+
+[suffix]
+And it was so
+and
